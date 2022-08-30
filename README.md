@@ -17,4 +17,5 @@
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darenbt&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
+<br/>
 <img src="https://www.codewars.com/users/darenbt/badges/small">
