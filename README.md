@@ -19,4 +19,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darenbt&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br/>
-<img src="https://www.codewars.com/users/XenaaMorph%20/badges/small">
+<img src="https://www.codewars.com/users/darenbt/badges/small">
